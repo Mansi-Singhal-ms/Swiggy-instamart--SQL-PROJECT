@@ -1,0 +1,60 @@
+# 🛒 Swiggy Instamart - SQL Case Study
+
+![Swiggy Instamart](68685a95-91bc-4ef1-96f1-76955d6de193.png)
+
+## 📚 Project Overview
+
+This case study focuses on solving real-world business problems for **Swiggy Instamart** using SQL techniques of various complexities.
+
+Swiggy Instamart is an instant grocery delivery service that ensures customers receive groceries and essentials quickly at their doorstep.  
+Our goal is to analyze the data related to customers, products, orders, delivery partners, warehouses, and suppliers to generate actionable insights and improve business operations.
+
+---
+
+## ✅ Basic Level Queries
+
+1. List customers in the 'Frequent Shopper' segment  
+2. Find customers who registered in the last 6 months  
+3. List products priced between ₹30 and ₹100  
+4. Find products whose name contains 'Milk'  
+5. Top 5 oldest delivery partners  
+
+---
+
+## ✅ Intermediate Level Queries
+
+6.  Count of delivery partners hired each year  
+7.  Count of orders per month (across all years)  
+8.  Find Most frequently used payment method  
+9.  Count of products available in each category  
+10. Stores with warehouse capacity less than average  
+11. Delivery partners with more than 5 deliveries  
+12. Supplier providing highest revenue-generating products  
+13. Products with high stock but low sales  
+14. Cities with high order cancellations  
+15. Customer segment contributing most to revenue  
+
+---
+
+## ✅ Advanced Level Queries
+
+16. Top 2 most expensive products in each category  
+17. Rank delivery partners by number of orders handled  
+18. Categorize products by stock level ('Low', 'Medium', 'High') using CASE statement  
+19. Calculate average delivery time per city and rank them  
+20. Rank customers by total spend  
+21. Detect customers who placed orders but never received them  
+
+---
+
+## 🎯 Purpose of This Case Study
+
+- Apply practical SQL skills to solve real business problems  
+- Gain insights into customer behavior, product performance, and operational efficiency  
+- Learn advanced SQL techniques like window functions, CTEs, and CASE statements  
+- Develop structured solutions for large-scale data analysis in business context  
+
+---
+
+👉 Feel free to explore the project and use the notebooks for hands-on learning!
+
