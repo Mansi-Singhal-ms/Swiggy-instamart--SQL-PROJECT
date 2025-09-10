@@ -50,13 +50,12 @@ Detailed case study questions are provided to practice and explore advanced SQL 
 
 Feel free to connect with me for collaboration or queries!
 
-🔗 LinkedIn Profile
+🔗 LinkedIn Profile:- 
+    https://www.linkedin.com/in/mansi-singhal-a0749a262/
+  
+🔗 GitHub Profile:-
+  https://github.com/Mansi-Singhal-ms
 
-  https://www.linkedin.com/in/mansi-singhal-a0749a262/
-🔗 GitHub Profile
-
- https://github.com/Mansi-Singhal-ms
-📧 Email
-
+📧 Email:-
   msinghal2410@gmail.com
 
