@@ -52,11 +52,11 @@ Feel free to connect with me for collaboration or queries!
 
 🔗 LinkedIn Profile
 
-     https://www.linkedin.com/in/mansi-singhal-a0749a262/
+  https://www.linkedin.com/in/mansi-singhal-a0749a262/
 🔗 GitHub Profile
 
-     https://github.com/Mansi-Singhal-ms
+ https://github.com/Mansi-Singhal-ms
 📧 Email
 
-     msinghal2410@gmail.com
+  msinghal2410@gmail.com
 
